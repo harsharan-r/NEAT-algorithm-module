@@ -1,3 +1,3 @@
 # NEAT-algorithm-module
-## A NEAT algorithm module I'm making in python which will be used for machine learning for games.
+A NEAT algorithm module in python which will mainly be used for games.
 
